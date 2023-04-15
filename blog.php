@@ -1,4 +1,5 @@
 <!doctype html>
+<!---debut du code-->
 <html lang="fr">
 
 <head>
