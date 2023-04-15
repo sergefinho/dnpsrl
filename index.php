@@ -31,7 +31,7 @@
 
 <body>
 
-    <!---header-->
+    <!---header du code-->
     <?php require_once "inc/header.php" ?>
 
     <!-- Start Main Slides Area -->
