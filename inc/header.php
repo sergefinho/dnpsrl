@@ -79,7 +79,7 @@
                                 </li>
 
                                 <li class="nav-item">
-                                    <a href="Projects.php" class="nav-link">
+                                    <a href="projects.php" class="nav-link">
                                         Nos Projets
                                     </a>
                                 </li>
