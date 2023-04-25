@@ -95,7 +95,7 @@
                                 </li>
 
                                 <li class="nav-item">
-                                    <a href="Faq.php" class="nav-link">FAQ</a>
+                                    <a href="faq.php" class="nav-link">FAQ</a>
                                 </li>
 
                                 <li class="nav-item">
